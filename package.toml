@@ -1,0 +1,8 @@
+[package_detail]
+name = "gqrx"
+description = "Software defined radio receiver powered by GNU Radio and Qt"
+version = "2.15.9"
+source_url = "https://github.com/gqrx-sdr/gqrx"
+license = "GPL-3.0"
+install_script = "setup.sh"
+install_script_type = "shell"
